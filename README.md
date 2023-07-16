@@ -34,6 +34,5 @@ References:
 
 
 
-Find out our full Mini-project report here: [JavaMiniFinal.pdf](https://github.com/VijeshPethuram/HospitalManagementSystem/files/11617498/JavaMiniFinal.pdf)
 
 
