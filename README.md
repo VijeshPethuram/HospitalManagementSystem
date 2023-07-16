@@ -3,7 +3,7 @@ Hospital Management System using Java Swings and JDBC (MySQL) in Apache NetBeans
 
 Note: Open this project in Apache NetBeans 14 or higher. Before opening the project, create databases as per the schema diagram provided in MySQL.
 
-Find out our full Mini-project report here: [JavaMiniFinal.pdf](https://github.com/VijeshPethuram/HospitalManagementSystem/files/11617498/JavaMiniFinal.pdf)
+Find out our full project report here: [JavaMiniFinal.pdf](https://github.com/VijeshPethuram/HospitalManagementSystem/files/11617498/JavaMiniFinal.pdf)
 
 Overview:
 
